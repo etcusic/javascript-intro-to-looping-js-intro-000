@@ -25,4 +25,4 @@ var doWhileLoop = function(num){
   } while (num > 0)
 }
 
-var 
+var
