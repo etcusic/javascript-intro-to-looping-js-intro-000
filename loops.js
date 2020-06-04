@@ -17,3 +17,10 @@ var whileLoop = function(n){
   }
   return 'done'
 }
+
+var doWhileLoop = function(num){
+  do{
+    console.log("I run once regardless.")
+    num--
+  } while (num === 0)
+}
