@@ -3,7 +3,7 @@ var forLoop = function(array){
     var sent = `"I am ${i} strange loop${i === 0 ? '' : 's'}."`
     array.push(sent)
   }
-  return array 
+  return array
 }
 
 var whileLoop = function(n){
