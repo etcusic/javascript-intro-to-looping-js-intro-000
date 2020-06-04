@@ -24,5 +24,3 @@ var doWhileLoop = function(num){
     num--
   } while (num > 0)
 }
-
-var
